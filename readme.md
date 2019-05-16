@@ -13,15 +13,21 @@
 
 ## Free
 
+- ️️✉️ <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [NewTek NDI tools](https://www.newtek.com/ndi/tools/) - the must-have toolset from NewTek
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Open Broadcaster Studio NDI Plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/) - allows NDI input and output from OBS, even from individual sources in OBS
-- ✉️ ![windows](./media/windows.svg) [MediaLooks NDI to SDI converter](https://www.medialooks.com/products/) - converts from NDI to SDI
-- ✉️ ![windows](./media/windows.svg) [MediaLooks SDI to NDI converter](https://www.medialooks.com/products/) - converts from SDI to NDI
+- ✉️ <img src="./media/windows.svg" height="14"> [MediaLooks NDI to SDI converter](https://www.medialooks.com/products/) - converts from NDI to SDI
+- ✉️ <img src="./media/windows.svg" height="14"> [MediaLooks SDI to NDI converter](https://www.medialooks.com/products/) - converts from SDI to NDI
 
 ## Open Source
 
+- <img src="./media/windows.svg" height="14"> [Streampunk/grandiose](https://github.com/Streampunk/grandiose) - NodeJS bindings for NDI
+- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [keijiro/KlakNDI](https://github.com/keijiro/KlakNDI) - NDI integration in Unity
+
+
 ## Paid
 
-- ✉️ ![windows](./media/windows.svg) ![apple](./media/apple.svg) [RTMP Mini Server](http://garaninapps.com/rtmpminiserver) - converts incoming RTMP streams to NDI
+- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [RTMP Mini Server](http://garaninapps.com/rtmpminiserver) - converts incoming RTMP streams to NDI
+- <img src="./media/windows.svg" height="14"> [vMix](https://www.vmix.com/) - software video switcher with excellent NDI support
 
 
 ## Contribute
