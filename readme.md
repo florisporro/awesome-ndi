@@ -13,7 +13,7 @@
 
 ## Free
 
-- ![windows](./media/windows.svg) ![apple](./media/apple.svg) [Open Broadcaster Studio NDI Plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/) - allows NDI input and output from OBS, even from individual sources in OBS
+- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Open Broadcaster Studio NDI Plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/) - allows NDI input and output from OBS, even from individual sources in OBS
 - ✉️ ![windows](./media/windows.svg) [MediaLooks NDI to SDI converter](https://www.medialooks.com/products/) - converts from NDI to SDI
 - ✉️ ![windows](./media/windows.svg) [MediaLooks SDI to NDI converter](https://www.medialooks.com/products/) - converts from SDI to NDI
 
