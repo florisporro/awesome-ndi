@@ -22,6 +22,7 @@
 
 - <img src="./media/windows.svg" height="14"> [Streampunk/grandiose](https://github.com/Streampunk/grandiose) - NodeJS bindings for NDI
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [keijiro/KlakNDI](https://github.com/keijiro/KlakNDI) - NDI integration in Unity
+- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ue4plugins/NdiMedia](https://github.com/ue4plugins/NdiMedia) - NDI integration in Unreal Engine
 
 
 ## Paid
