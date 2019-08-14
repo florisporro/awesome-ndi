@@ -5,9 +5,8 @@
 
 ## Contents
 
-- [Free](#free)
-- [Paid](#paid)
-
+<img src="./media/apple.svg" height="14"> = OS X builds
+<img src="./media/windows.svg" height="14"> = Windows builds
 ✉️ = Requires e-mail for download
 
 
@@ -39,6 +38,7 @@
 - <img src="./media/apple.svg" height="14"> [mimoLive](https://boinx.com/mimolive/) - software video switcher
 - <img src="./media/apple.svg" height="14"> [Millumin](https://www.millumin.com/v3/index.php) - show control and projection mapping software
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Resolume](https://resolume.com/download/) - VJ and projection mapping software
+- <img src="./media/windows.svg" height="14"> [Dataton Watchout](https://www.dataton.com/) - projection mapping and media server software
 - <img src="./media/apple.svg" height="14"> [Mitti](https://imimot.com/mitti/) - Video cue software
 
 
