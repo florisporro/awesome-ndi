@@ -13,6 +13,7 @@
 
 ## Open Source libs
 - <img src="./media/windows.svg" height="14"> [Streampunk/grandiose](https://github.com/Streampunk/grandiose) - NodeJS bindings for NDI
+- <img src="./media/windows.svg" height="14"> [ykhwong/ppt-ndi](https://github.com/ykhwong/ppt-ndi) - PPT to NDI
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [keijiro/KlakNDI](https://github.com/keijiro/KlakNDI) - NDI integration in Unity
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ue4plugins/NdiMedia](https://github.com/ue4plugins/NdiMedia) - NDI integration in Unreal Engine
 
@@ -21,6 +22,7 @@
 - ✉️ <img src="./media/windows.svg" height="14"> [MediaLooks NDI to SDI converter](https://www.medialooks.com/products/) - converts from NDI to SDI
 - ✉️ <img src="./media/windows.svg" height="14"> [MediaLooks SDI to NDI converter](https://www.medialooks.com/products/) - converts from SDI to NDI
 - ✉️ <img src="./media/apple.svg" height="14"> [Sienna-TV Free NDI tools](http://www.sienna-tv.com/ndi/freenditools.html) - Includes a monitor app, signal generator app and scan converter
+- ✉️ <img src="./media/apple.svg" height="14"> [ZEN Computer Services NDI tools](http://zenvideo.co.uk/ndi.htm) - Variety of tools, including an image viewer, gradient generator and more
 
 ## Free apps with NDI support
 - ✉️ <img src="./media/windows.svg" height="14"> [Second Stream](http://garaninapps.com/secondstream) - second screen software for mobile devices, takes an NDI feed
