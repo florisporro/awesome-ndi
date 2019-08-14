@@ -17,6 +17,7 @@
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Open Broadcaster Studio NDI Plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/) - allows NDI input and output from OBS, even from individual sources in OBS
 - ✉️ <img src="./media/windows.svg" height="14"> [MediaLooks NDI to SDI converter](https://www.medialooks.com/products/) - converts from NDI to SDI
 - ✉️ <img src="./media/windows.svg" height="14"> [MediaLooks SDI to NDI converter](https://www.medialooks.com/products/) - converts from SDI to NDI
+- ✉️ <img src="./media/apple.svg" height="14"> [Sienna-TV Free NDI tools](http://www.sienna-tv.com/ndi/freenditools.html) - Includes a monitor app, signal generator app and scan converter
 
 ## Open Source
 
@@ -29,6 +30,7 @@
 
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [RTMP Mini Server](http://garaninapps.com/rtmpminiserver) - converts incoming RTMP streams to NDI
 - <img src="./media/windows.svg" height="14"> [vMix](https://www.vmix.com/) - software video switcher with excellent NDI support
+- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Sienna-TV NDI toolset](http://www.sienna-tv.com/ndi/) - a large variety of tools, from routing to monitoring and test signals
 
 
 ## Contribute
