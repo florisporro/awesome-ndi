@@ -6,7 +6,9 @@
 ## Contents
 
 <img src="./media/apple.svg" height="14"> = OS X builds
+
 <img src="./media/windows.svg" height="14"> = Windows builds
+
 ✉️ = Requires e-mail for download
 
 
@@ -26,6 +28,7 @@
 ## Free apps with NDI support
 - ✉️ <img src="./media/windows.svg" height="14"> [Second Stream](http://garaninapps.com/secondstream) - second screen software for mobile devices, takes an NDI feed
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Open Broadcaster Studio with the NDI Plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/) - allows NDI input and output from OBS, even from individual sources in OBS
+- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Skype](https://www.skype.com/nl/get-skype/) - video and audio conferencing
 
 ## Paid NDI tools
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [RTMP Mini Server](http://garaninapps.com/rtmpminiserver) - converts incoming RTMP streams to NDI
