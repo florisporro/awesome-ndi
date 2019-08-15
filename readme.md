@@ -16,6 +16,7 @@
 - <img src="./media/windows.svg" height="14"> [Streampunk/grandiose](https://github.com/Streampunk/grandiose) - NodeJS bindings for NDI
 - <img src="./media/windows.svg" height="14"> [ykhwong/ppt-ndi](https://github.com/ykhwong/ppt-ndi) - PPT to NDI
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [keijiro/KlakNDI](https://github.com/keijiro/KlakNDI) - NDI integration in Unity
+- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [anome/Unity-plugin](https://github.com/anome/Unity-plugin) - Unity integration for NDI, Syphon, Sprout
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ue4plugins/NdiMedia](https://github.com/ue4plugins/NdiMedia) - NDI integration in Unreal Engine
 
 ## Free NDI tools
@@ -39,11 +40,16 @@
 - <img src="./media/windows.svg" height="14"> [vMix](https://www.vmix.com/) - software video switcher
 - <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Livestream Studio](https://livestream.com/studio) - software video switcher
 - <img src="./media/apple.svg" height="14"> [mimoLive](https://boinx.com/mimolive/) - software video switcher
-- <img src="./media/apple.svg" height="14"> [Millumin](https://www.millumin.com/v3/index.php) - show control and projection mapping software
-- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Resolume](https://resolume.com/download/) - VJ and projection mapping software
-- <img src="./media/windows.svg" height="14"> [Dataton Watchout](https://www.dataton.com/) - projection mapping and media server software
 - <img src="./media/apple.svg" height="14"> [ProVideoPlayer 3](https://renewedvision.com/provideoplayer/download/) - Video cue software
+- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ProPresenter](https://renewedvision.com/propresenter/download/) - Video cue software
 - <img src="./media/apple.svg" height="14"> [Mitti](https://imimot.com/mitti/) - Video cue software
+- <img src="./media/windows.svg" height="14"> [Playdeck](https://www.playdeck.tv/) - Video cue software with recording capability
+- <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Resolume](https://resolume.com/download/) - VJ and projection mapping software
+- <img src="./media/apple.svg" height="14"> [Millumin](https://www.millumin.com/v3/index.php) - show control and projection mapping software
+- <img src="./media/windows.svg" height="14"> [Disguise](https://www.disguise.one/en/) - projection mapping and media server software
+- <img src="./media/windows.svg" height="14"> [Dataton Watchout](https://www.dataton.com/) - projection mapping and media server software
+- <img src="./media/windows.svg" height="14"> [Green Hippo](https://www.green-hippo.com) - projection mapping and media server software
+- [7th Sense](https://7thsensedesign.com/) - projection mapping and media server software
 
 
 ## Contribute
