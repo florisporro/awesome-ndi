@@ -29,53 +29,53 @@
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) ✉️ <img src="./media/apple.svg" height="14"> [Sienna-TV Free NDI tools](http://www.sienna-tv.com/ndi/freenditools.html) - Includes a monitor app, signal generator app and scan converter
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) ✉️ <img src="./media/windows.svg" height="14"> [ZEN Computer Services NDI tools](http://zenvideo.co.uk/ndi.htm) - Variety of tools, including an image viewer, gradient generator and more
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) ✉️ <img src="./media/windows.svg" height="14"> [Second Stream](http://garaninapps.com/secondstream) - second screen software for mobile devices, takes an NDI feed
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [RTMP Mini Server](http://garaninapps.com/rtmpminiserver) - converts incoming RTMP streams to NDI
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Sienna-TV NDI toolset](http://www.sienna-tv.com/ndi/) - a large variety of tools, from routing to monitoring and test signals
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> + Ubuntu - [Orfast Multiviewer](https://orfast.com/) - NDI Multiviewer
+<br />![Price paid](https://img.shields.io/badge/price-$600-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [RTMP Mini Server](http://garaninapps.com/rtmpminiserver) - converts incoming RTMP streams to NDI
+<br />![Price paid](https://img.shields.io/badge/price-dealer-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Sienna-TV NDI toolset](http://www.sienna-tv.com/ndi/) - a large variety of tools, from routing to monitoring and test signals
+<br />![Price paid](https://img.shields.io/badge/price-$150-red) <img src="./media/windows.svg" height="14"> + Ubuntu - [Orfast Multiviewer](https://orfast.com/) - NDI Multiviewer
 
 ## 👓 Software Vision Mixers
 
 ![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Open Broadcaster Studio with the NDI Plugin](https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/) - allows NDI input and output from OBS, even from individual sources in OBS
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Wirecast](https://www.telestream.net/wirecast/) - software video switcher
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [vMix](https://www.vmix.com/) - software video switcher
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [VidBlasterX](https://www.vidblasterx.com/) - software video switcher
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Livestream Studio](https://livestream.com/studio) - software video switcher
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/apple.svg" height="14"> [mimoLive](https://boinx.com/mimolive/) - software video switcher
+<br />![Price paid](https://img.shields.io/badge/price-$600+-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Wirecast](https://www.telestream.net/wirecast/) - software video switcher
+<br />![Price paid](https://img.shields.io/badge/price-$60+-red) <img src="./media/windows.svg" height="14"> [vMix](https://www.vmix.com/) - software video switcher
+<br />![Price paid](https://img.shields.io/badge/price-€9+/yr-red) <img src="./media/windows.svg" height="14"> [VidBlasterX](https://www.vidblasterx.com/) - software video switcher
+<br />![Price paid](https://img.shields.io/badge/price-€70/m-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Livestream Studio](https://livestream.com/studio) - software video switcher
+<br />![Price paid](https://img.shields.io/badge/price-€79/m-red) <img src="./media/apple.svg" height="14"> [mimoLive](https://boinx.com/mimolive/) - software video switcher
 
 ## 🔴 Playback & Recording
 
-![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/apple.svg" height="14"> [ProVideoPlayer 3](https://renewedvision.com/provideoplayer/download/) - Video cue software
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ProPresenter](https://renewedvision.com/propresenter/download/) - Video cue software
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/apple.svg" height="14"> [Mitti](https://imimot.com/mitti/) - Video cue software
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [Playdeck](https://www.playdeck.tv/) - Playout software with recording capability
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [Stream-Labs VPlay 5](https://www.stream-labs.com/en/catalog/Playout_and_CG/VPlay_5_%E2%80%93_multichannel_broadcasting_with_CG) - Playout software with graphics capability
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [Elite](https://www.elementseurope.com/) - Playout animation
+![Price paid](https://img.shields.io/badge/price-$1k-red) <img src="./media/apple.svg" height="14"> [ProVideoPlayer 3](https://renewedvision.com/provideoplayer/download/) - Video cue software
+<br />![Price paid](https://img.shields.io/badge/price-$400-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ProPresenter](https://renewedvision.com/propresenter/download/) - Video cue software
+<br />![Price paid](https://img.shields.io/badge/price-$300-red) <img src="./media/apple.svg" height="14"> [Mitti](https://imimot.com/mitti/) - Video cue software
+<br />![Price paid](https://img.shields.io/badge/price-€16/m-red) <img src="./media/windows.svg" height="14"> [Playdeck](https://www.playdeck.tv/) - Playout software with recording capability
+<br />![Price paid](https://img.shields.io/badge/price-dealer-red) <img src="./media/windows.svg" height="14"> [Stream-Labs VPlay 5](https://www.stream-labs.com/en/catalog/Playout_and_CG/VPlay_5_%E2%80%93_multichannel_broadcasting_with_CG) - Playout software with graphics capability
+<br />![Price paid](https://img.shields.io/badge/price-€900-red) <img src="./media/windows.svg" height="14"> [Elite](https://www.elementseurope.com/) - Playout animation
 
 ## 🖌️ Graphics
 
-![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [NewBlue Titler Live 4](https://newbluefx.com/products/on-air-graphics/titler-live-present/) - live graphics application
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [SuiteCG](https://suitecg.com/) - live graphics application
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [live.score](https://www.live-score-app.com/) - live graphics application for sports graphics
+![Price paid](https://img.shields.io/badge/price-$450-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [NewBlue Titler Live 4](https://newbluefx.com/products/on-air-graphics/titler-live-present/) - live graphics application
+<br />![Price paid](https://img.shields.io/badge/price-$250/yr-red) <img src="./media/windows.svg" height="14"> [SuiteCG](https://suitecg.com/) - live graphics application
+<br />![Price paid](https://img.shields.io/badge/price-€1.1k-red) <img src="./media/windows.svg" height="14"> [live.score](https://www.live-score-app.com/) - live graphics application for sports graphics
 
 ## 📡 Contribution
 
 ![Price free](https://img.shields.io/badge/price-free-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Skype](https://www.skype.com/nl/get-skype/) - video and audio conferencing
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [MediaLooks Video Transport](https://www.medialooks.com/video-transport) - Cloud infrastructure for remote NDI contribution and transmission
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [BirdDog Cloud](https://www.bird-dog.tv/cloud-overview/) - Cloud infrastructure for remote NDI contribution and transmission
+<br />![Price paid](https://img.shields.io/badge/price-$1.3k/yr-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [MediaLooks Video Transport](https://www.medialooks.com/video-transport) - Cloud infrastructure for remote NDI contribution and transmission
+<br />![Price paid](https://img.shields.io/badge/price-$1k+/yr-red) <img src="./media/windows.svg" height="14"> [BirdDog Cloud](https://www.bird-dog.tv/cloud-overview/) - Cloud infrastructure for remote NDI contribution and transmission
 
 ## 🗺️ Media Servers & Mapping
 
-![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Resolume](https://resolume.com/download/) - VJ and projection mapping software
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ArKaos GrandVJ](https://vj.arkaos.com/) - VJ software
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/apple.svg" height="14"> [Millumin](https://www.millumin.com/v3/index.php) - show control and projection mapping software
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [Disguise](https://www.disguise.one/en/) - projection mapping and media server software
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [Dataton Watchout](https://www.dataton.com/) - projection mapping and media server software
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> [Green Hippo](https://www.green-hippo.com) - projection mapping and media server software
-<br />![Price paid](https://img.shields.io/badge/price-paid-red) [7th Sense](https://7thsensedesign.com/) - projection mapping and media server software
+![Price paid](https://img.shields.io/badge/price-€300+-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Resolume](https://resolume.com/download/) - VJ and projection mapping software
+<br />![Price paid](https://img.shields.io/badge/price-€300+-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ArKaos GrandVJ](https://vj.arkaos.com/) - VJ software
+<br />![Price paid](https://img.shields.io/badge/price-€600-red) <img src="./media/apple.svg" height="14"> [Millumin](https://www.millumin.com/v3/index.php) - show control and projection mapping software
+<br />![Price paid](https://img.shields.io/badge/price-$17.5k+-red) <img src="./media/windows.svg" height="14"> [Disguise](https://www.disguise.one/en/) - projection mapping and media server software
+<br />![Price paid](https://img.shields.io/badge/price-$10k+-red) <img src="./media/windows.svg" height="14"> [Dataton Watchout](https://www.dataton.com/) - projection mapping and media server software
+<br />![Price paid](https://img.shields.io/badge/price-dealer-red) <img src="./media/windows.svg" height="14"> [Green Hippo](https://www.green-hippo.com) - projection mapping and media server software
+<br />![Price paid](https://img.shields.io/badge/price-dealer-red) [7th Sense](https://7thsensedesign.com/) - projection mapping and media server software
 
 ## Other
 
-![Price paid](https://img.shields.io/badge/price-paid-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [TouchDesigner](https://derivative.ca/) - visual development platform for multimedia
+![Price paid](https://img.shields.io/badge/price-$600+-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [TouchDesigner](https://derivative.ca/) - visual development platform for multimedia
 
 ## Contribute
 
