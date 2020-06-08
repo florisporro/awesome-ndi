@@ -58,6 +58,7 @@
 <br />![Price paid](https://img.shields.io/badge/price-€16/m-red) <img src="./media/windows.svg" height="14"> [Playdeck](https://www.playdeck.tv/) - Playout software with recording capability
 <br />![Price paid](https://img.shields.io/badge/price-dealer-red) <img src="./media/windows.svg" height="14"> [Stream-Labs VPlay 5](https://www.stream-labs.com/en/catalog/Playout_and_CG/VPlay_5_%E2%80%93_multichannel_broadcasting_with_CG) - Playout software with graphics capability
 <br />![Price paid](https://img.shields.io/badge/price-€900-red) <img src="./media/windows.svg" height="14"> [Elite](https://www.elementseurope.com/) - Playout animation
+<br />![Price paid](https://img.shields.io/badge/price-€84-red) <img src="./media/windows.svg" height="14"> + Linux - [Livemind Recorder](https://livemind.tv/recorder) - Multitrack NDI recorder
 
 ## 🖌️ Graphics
 
