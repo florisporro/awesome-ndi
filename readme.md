@@ -4,22 +4,29 @@
 
 > This is a curated list of tools related to NDI.
 
+<img src="./media/apple.svg" height="14"> = macOS builds
+<br /><img src="./media/windows.svg" height="14"> = Windows builds
+<br />✉️ = Requires e-mail for download
+
 ## Contents
 
-<img src="./media/apple.svg" height="14"> = OS X builds
-
-<img src="./media/windows.svg" height="14"> = Windows builds
-
-✉️ = Requires e-mail for download
+- [🔓 SDK Libraries](#-sdk-libraries)
+- [🛠️ Converters & Tools](#-converters--tools)
+- [👓 Software Vision Mixers](#-software-vision-mixers)
+- [🔴 Playback & Recording](#-playback--recording)
+- [🖌️ Graphics](#-graphics)
+- [📡 Contribution](#-contribution)
+- [🗺️ Media Servers & Mapping](#-media-servers--mapping)
+- [Other](#other)
 
 ## 🔓 SDK Libraries
 
-![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> [Streampunk/grandiose](https://github.com/Streampunk/grandiose) - NodeJS bindings for NDI
+![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> [Streampunk/grandiose](https://github.com/Streampunk/grandiose) - Node.js bindings for NDI
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> [ykhwong/ppt-ndi](https://github.com/ykhwong/ppt-ndi) - PPT to NDI
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [keijiro/KlakNDI](https://github.com/keijiro/KlakNDI) - NDI integration in Unity
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [anome/Unity-plugin](https://github.com/anome/Unity-plugin) - Unity integration for NDI, Syphon, Sprout
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ue4plugins/NdiMedia](https://github.com/ue4plugins/NdiMedia) - NDI integration in Unreal Engine
-<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/apple.svg" height="14"> [Syphon](http://syphon.v002.info/) - Listed here for posterity, Syphon is an NDI-like SDK to share video between applications on OS X (local only)
+<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/apple.svg" height="14"> [Syphon](http://syphon.v002.info/) - Listed here for posterity, Syphon is an NDI-like SDK to share video between applications on macOS (local only)
 
 ## 🛠️ Converters & Tools
 
