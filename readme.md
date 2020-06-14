@@ -62,7 +62,7 @@
 
 ## 🖌️ Graphics
 
-![Price free](https://img.shields.io/badge/price-free-brightgreen) <img src="./media/windows.svg" height="14"> [CasparCG](https://www.casparcg.com/) - live graphics application, layerbased real-time compositor
+![Price free](https://img.shields.io/badge/price-free-brightgreen) <img src="./media/windows.svg" height="14"> [CasparCG](https://github.com/CasparCG/server/releases/tag/v2.3.0-lts-beta.1) - live graphics application, layerbased real-time compositor
 <br /> ![Price paid](https://img.shields.io/badge/price-$450-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [NewBlue Titler Live 4](https://newbluefx.com/products/on-air-graphics/titler-live-present/) - live graphics application
 <br />![Price paid](https://img.shields.io/badge/price-$250/yr-red) <img src="./media/windows.svg" height="14"> [SuiteCG](https://suitecg.com/) - live graphics application
 <br />![Price paid](https://img.shields.io/badge/price-€1.1k-red) <img src="./media/windows.svg" height="14"> [live.score](https://www.live-score-app.com/) - live graphics application for sports graphics
