@@ -60,6 +60,7 @@
 <br />![Price paid](https://img.shields.io/badge/price-dealer-red) <img src="./media/windows.svg" height="14"> [Stream-Labs VPlay 5](https://www.stream-labs.com/en/catalog/Playout_and_CG/VPlay_5_%E2%80%93_multichannel_broadcasting_with_CG) - Playout software with graphics capability
 <br />![Price paid](https://img.shields.io/badge/price-€900-red) <img src="./media/windows.svg" height="14"> [Elite](https://www.elementseurope.com/) - Playout animation
 <br />![Price paid](https://img.shields.io/badge/price-€84-red) <img src="./media/windows.svg" height="14"> + Linux - [Livemind Recorder](https://livemind.tv/recorder) - Multitrack NDI recorder
+<br />![Price free](https://img.shields.io/badge/price-free-brightgreen) Linux - [Dicaffeine](https://dicaffeine.com/) - NDI player and streamer Linux (Raspberry Pi OS on Raspberry ARM computers and Ubuntu (Xubuntu) on AMD/Intel computers.
 
 ## 🖌️ Graphics
 
