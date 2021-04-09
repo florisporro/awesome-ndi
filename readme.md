@@ -49,6 +49,7 @@
 <br />![Price paid](https://img.shields.io/badge/price-€9+/yr-red) <img src="./media/windows.svg" height="14"> [VidBlasterX](https://www.vidblasterx.com/) - software video switcher
 <br />![Price paid](https://img.shields.io/badge/price-€70/m-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Livestream Studio](https://livestream.com/studio) - software video switcher
 <br />![Price paid](https://img.shields.io/badge/price-€79/m-red) <img src="./media/apple.svg" height="14"> [mimoLive](https://boinx.com/mimolive/) - software video switcher
+<br />![Price paid](https://img.shields.io/badge/price-€16+/m-red) <img src="./media/apple.svg" height="14"> [Ecamm Live](https://www.ecamm.com/mac/ecammlive/) - software video switcher
 
 ## 🔴 Playback & Recording
 
