@@ -49,6 +49,7 @@
 <br />![Price paid](https://img.shields.io/badge/price-€9+/yr-red) <img src="./media/windows.svg" height="14"> [VidBlasterX](https://www.vidblasterx.com/) - software video switcher
 <br />![Price paid](https://img.shields.io/badge/price-€70/m-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Livestream Studio](https://livestream.com/studio) - software video switcher
 <br />![Price paid](https://img.shields.io/badge/price-€79/m-red) <img src="./media/apple.svg" height="14"> [mimoLive](https://boinx.com/mimolive/) - software video switcher
+<br />![Price paid](https://img.shields.io/badge/price-€16+/m-red) <img src="./media/apple.svg" height="14"> [Ecamm Live](https://www.ecamm.com/mac/ecammlive/) - software video switcher
 
 ## 🔴 Playback & Recording
 
@@ -59,6 +60,7 @@
 <br />![Price paid](https://img.shields.io/badge/price-dealer-red) <img src="./media/windows.svg" height="14"> [Stream-Labs VPlay 5](https://www.stream-labs.com/en/catalog/Playout_and_CG/VPlay_5_%E2%80%93_multichannel_broadcasting_with_CG) - Playout software with graphics capability
 <br />![Price paid](https://img.shields.io/badge/price-€900-red) <img src="./media/windows.svg" height="14"> [Elite](https://www.elementseurope.com/) - Playout animation
 <br />![Price paid](https://img.shields.io/badge/price-€84-red) <img src="./media/windows.svg" height="14"> + Linux - [Livemind Recorder](https://livemind.tv/recorder) - Multitrack NDI recorder
+<br />![Price free](https://img.shields.io/badge/price-free-brightgreen) Linux - [Dicaffeine](https://dicaffeine.com/) - NDI player and streamer Linux (Raspberry Pi OS on Raspberry ARM computers and Ubuntu (Xubuntu) on AMD/Intel computers.
 
 ## 🖌️ Graphics
 
