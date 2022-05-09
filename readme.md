@@ -61,6 +61,9 @@
 <br />![Price paid](https://img.shields.io/badge/price-€900-red) <img src="./media/windows.svg" height="14"> [Elite](https://www.elementseurope.com/) - Playout animation
 <br />![Price paid](https://img.shields.io/badge/price-€84-red) <img src="./media/windows.svg" height="14"> + Linux - [Livemind Recorder](https://livemind.tv/recorder) - Multitrack NDI recorder
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) Linux - [Dicaffeine](https://dicaffeine.com/) - NDI player and streamer for Linux (Raspberry Pi OS on Raspberry ARM computers and Ubuntu (Xubuntu) on AMD/Intel computers)
+<br />![Price free](https://img.shields.io/badge/price-free-brightgreen) Linux - [RaspiNDI ](https://github.com/raspberry-pi-camera/raspindi) - 
+RaspiNDI is a simple NDI send library for Raspberry Pi. Works with LibCamera supported Cameras (Raspberry Pi)
+
 
 ## 🖌️ Graphics
 
