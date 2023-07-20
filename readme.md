@@ -91,7 +91,8 @@ RaspiNDI is a simple NDI send library for Raspberry Pi. Works with LibCamera sup
 
 ## Other
 
-![Price paid](https://img.shields.io/badge/price-$600+-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [TouchDesigner](https://derivative.ca/) - visual development platform for multimedia
+![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [CVM Eventi Countdown](https://github.com/CVMEventi/Countdown) - Timer software with integrated NDI output
+<br />![Price paid](https://img.shields.io/badge/price-$600+-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [TouchDesigner](https://derivative.ca/) - visual development platform for multimedia
 
 ## Contribute
 
