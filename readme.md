@@ -27,6 +27,7 @@
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [anome/Unity-plugin](https://github.com/anome/Unity-plugin) - Unity integration for NDI, Syphon, Sprout
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ue4plugins/NdiMedia](https://github.com/ue4plugins/NdiMedia) - NDI integration in Unreal Engine
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/apple.svg" height="14"> [Syphon](http://syphon.v002.info/) - Listed here for posterity, Syphon is an NDI-like SDK to share video between applications on macOS (local only)
+<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> + Linux [Godot NDI](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI SDK with the Godot Game Engine
 
 ## 🛠️ Converters & Tools
 
