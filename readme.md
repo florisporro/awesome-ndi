@@ -6,6 +6,7 @@
 
 <img src="./media/apple.svg" height="14"> = macOS builds
 <br /><img src="./media/windows.svg" height="14"> = Windows builds
+<br /><img src="./media/linux.svg" height="14"> = Linux Builds
 <br />✉️ = Requires e-mail for download
 
 ## Contents
@@ -98,7 +99,7 @@ RaspiNDI is a simple NDI send library for Raspberry Pi. Works with LibCamera sup
 
 ![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [CVM Eventi Countdown](https://github.com/CVMEventi/Countdown) - Timer software with integrated NDI output
 <br />![Price paid](https://img.shields.io/badge/price-$600+-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [TouchDesigner](https://derivative.ca/) - visual development platform for multimedia
-![Price_free][https://img.shields.io/badge/price-opensource-brightgreen] <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> <img src="./media/linux.svg" height="14"> [TouchDesigner](https://github.com/alim-zanibekov/ndi_streamer) - Restream NDI as RTSP/RTMP
+<br />![Price_free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> <img src="./media/linux.svg" height="14"> [TouchDesigner](https://github.com/alim-zanibekov/ndi_streamer) - Restream NDI as RTSP/RTMP
 
 ## Contribute
 
