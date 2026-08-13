@@ -29,6 +29,7 @@
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [ue4plugins/NdiMedia](https://github.com/ue4plugins/NdiMedia) - NDI integration in Unreal Engine
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/apple.svg" height="14"> [Syphon](http://syphon.v002.info/) - Listed here for posterity, Syphon is an NDI-like SDK to share video between applications on macOS (local only)
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> + Linux [Godot NDI](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI SDK with the Godot Game Engine
+<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> <img src="./media/linux.svg" height="14"> [GrantSparks/grafton-ndi](https://github.com/GrantSparks/grafton-ndi) - Rust bindings for the NDI SDK
 
 ## 🛠️ Converters & Tools
 
@@ -37,11 +38,9 @@
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) ✉️ <img src="./media/windows.svg" height="14"> [MediaLooks SDI to NDI converter](https://www.medialooks.com/products/) - converts from SDI to NDI
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) ✉️ <img src="./media/apple.svg" height="14"> [Sienna-TV Free NDI tools](http://www.sienna-tv.com/ndi/freenditools.html) - Includes a monitor app, signal generator app and scan converter
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) ✉️ <img src="./media/windows.svg" height="14"> [ZEN Computer Services NDI tools](http://zenvideo.co.uk/ndi.htm) - Variety of tools, including an image viewer, gradient generator and more
-<br />![Price free](https://img.shields.io/badge/price-free-brightgreen) ✉️ <img src="./media/apple.svg" height="14"> [NDISyphon](hhttps://docs.vidvox.net/freebies_ndi_syphon.html) - Converts from Syphon to NDI and the other way around
-<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> + Linux [Vingester](https://github.com/josephdadams/vingester) - browser source ingest tool for NDI
-<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> [NSM](https://github.com/mini0/nsm) - NDI Stream Monitor for viewing and monitoring NDI sources
-<br />![Price paid](https://img.shields.io/badge/price-$550-red) ✉️ <img src="./media/windows.svg" height="14"> [Second Stream](http://garaninapps.com/secondstream) - second screen software for mobile devices, takes an NDI feed
-<br />![Price paid](https://img.shields.io/badge/price-$600-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [RTMP Mini Server](http://garaninapps.com/rtmpminiserver) - converts incoming RTMP streams to NDI
+<br />![Price free](https://img.shields.io/badge/price-free-brightgreen) ✉️ <img src="./media/apple.svg" height="14"> [NDISyphon](https://docs.vidvox.net/freebies_ndi_syphon.html) - Converts from Syphon to NDI and the other way around
+<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> + Linux [Vingester](https://github.com/rse/vingester) - browser source ingest tool for NDI
+<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> [MikanseiLaboratory/momaku](https://github.com/MikanseiLaboratory/momaku) - Desktop app that sends web pages to NDI
 <br />![Price paid](https://img.shields.io/badge/price-dealer-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Sienna-TV NDI toolset](http://www.sienna-tv.com/ndi/) - a large variety of tools, from routing to monitoring and test signals
 <br />![Price paid](https://img.shields.io/badge/price-$150-red) <img src="./media/windows.svg" height="14"> + Ubuntu - [Orfast Multiviewer](https://orfast.com/) - NDI Multiviewer
 
@@ -81,8 +80,7 @@ RaspiNDI is a simple NDI send library for Raspberry Pi. Works with LibCamera sup
 
 ## 📡 Contribution
 
-![Price free](https://img.shields.io/badge/price-free-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [Skype](https://www.skype.com/nl/get-skype/) - video and audio conferencing
-<br />![Price paid](https://img.shields.io/badge/price-$1.3k/yr-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [MediaLooks Video Transport](https://www.medialooks.com/video-transport) - Cloud infrastructure for remote NDI contribution and transmission
+![Price paid](https://img.shields.io/badge/price-$1.3k/yr-red) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> [MediaLooks Video Transport](https://www.medialooks.com/video-transport) - Cloud infrastructure for remote NDI contribution and transmission
 <br />![Price paid](https://img.shields.io/badge/price-$1k+/yr-red) <img src="./media/windows.svg" height="14"> [BirdDog Cloud](https://www.bird-dog.tv/cloud-overview/) - Cloud infrastructure for remote NDI contribution and transmission
 
 ## 🗺️ Media Servers & Mapping
@@ -93,7 +91,7 @@ RaspiNDI is a simple NDI send library for Raspberry Pi. Works with LibCamera sup
 <br />![Price paid](https://img.shields.io/badge/price-$17.5k+-red) <img src="./media/windows.svg" height="14"> [Disguise](https://www.disguise.one/en/) - projection mapping and media server software
 <br />![Price paid](https://img.shields.io/badge/price-$10k+-red) <img src="./media/windows.svg" height="14"> [Dataton Watchout](https://www.dataton.com/) - projection mapping and media server software
 <br />![Price paid](https://img.shields.io/badge/price-dealer-red) <img src="./media/windows.svg" height="14"> [Green Hippo](https://www.green-hippo.com) - projection mapping and media server software
-<br />![Price paid](https://img.shields.io/badge/price-dealer-red) [7th Sense](https://7thsensedesign.com/) - projection mapping and media server software
+<br />![Price paid](https://img.shields.io/badge/price-dealer-red) [7th Sense](https://7thsense.one/) - projection mapping and media server software
 
 ## Other
 
