@@ -71,6 +71,7 @@
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) Linux - [Dicaffeine](https://dicaffeine.com/) - NDI player and streamer for Linux (Raspberry Pi OS on Raspberry ARM computers and Ubuntu (Xubuntu) on AMD/Intel computers)
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) Linux - [RaspiNDI ](https://github.com/raspberry-pi-camera/raspindi) - 
 RaspiNDI is a simple NDI send library for Raspberry Pi. Works with LibCamera supported Cameras (Raspberry Pi)
+<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> <img src="./media/linux.svg" height="14"> [Deckboy](https://github.com/Utopian-Academy/Deckboy) - Cue-based video playout with NDI send and receive, driven from Stream Deck, Companion, OSC, MIDI or timecode
 
 
 ## 🖌️ Graphics
