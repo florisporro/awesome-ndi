@@ -72,6 +72,7 @@
 <br />![Price free](https://img.shields.io/badge/price-free-brightgreen) Linux - [RaspiNDI ](https://github.com/raspberry-pi-camera/raspindi) - 
 RaspiNDI is a simple NDI send library for Raspberry Pi. Works with LibCamera supported Cameras (Raspberry Pi)
 <br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/windows.svg" height="14"> <img src="./media/apple.svg" height="14"> <img src="./media/linux.svg" height="14"> [Deckboy](https://github.com/Utopian-Academy/Deckboy) - Cue-based video playout with NDI send and receive, driven from Stream Deck, Companion, OSC, MIDI or timecode
+<br />![Price free](https://img.shields.io/badge/price-opensource-brightgreen) <img src="./media/linux.svg" height="14"> [NDIMon-R](https://github.com/markfen88/NDIMon-R) - NDI receiver appliance for ARM64/x64 Linux with optional experimental Tessera audio output (Dante protocol).
 
 
 ## 🖌️ Graphics
